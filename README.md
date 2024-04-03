@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dallas734
 - 👀 I’m interested in programming, video games, music
-- 🌱 I’m currently know/learning C/C++, C#, HTML, CSS, JS(React, JQuery, NodeJS), SQL(MySQL, PostgreSQL, SQL Server)
+- 🌱 I’m currently know/learning C/C++, C#, HTML, CSS, JS(React), SQL(MySQL, PostgreSQL, SQL Server), ASP.NET Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vernidub66@gmail.com
 
